@@ -309,10 +309,9 @@
                         
 3. **`tcpdump -tn -i eth0` command**
     - `r2`
-    - screecshot ![r2](photos/r222.png) ----------------------------------
+    - screecshot ![r2](photos/r222.png)
     - `ws11`
-    - screecshot ![ws11](photos/ws111.png)----------------------------------
-
+    - screecshot ![ws11](photos/ws111.png)
 ### **5.4 Adding static routes**
 1. **added static routes**
     - `r1`
