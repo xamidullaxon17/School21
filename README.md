@@ -8,7 +8,7 @@
 1. **`docker pull`**
     ```sh
     sudo docker pull nginx
-    ```
+    ``` 
     - Skrinshot: 
     ![p1]()
 
