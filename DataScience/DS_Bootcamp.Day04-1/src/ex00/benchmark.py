@@ -21,7 +21,7 @@ if __name__ == "__main__":
     loop_time = t.timeit(lambda: email_loop(emails), number=90000000)
     compr_time = t.timeit(lambda: email_compr(emails), number=90000000)
 
-    if loop_time >= compr_time:
+    if loop_time <= compr_time:
         print(f"It's better to use a list comprehension")
     else:
         print("It is better to use a list loop")
