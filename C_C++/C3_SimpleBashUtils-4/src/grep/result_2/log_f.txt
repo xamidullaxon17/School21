@@ -1,0 +1,12 @@
+../test.txt:Whitespace  test:
+../test.txt:This is a new paragraph with multiple lines.
+../test.txt:End of file.
+../test1.txt:This is a simple test file.
+../test1.txt:grep is a powerful tool used for searching text.
+../test1.txt:grep -i will ignore case sensitivity.
+../test1.txt:There are many combinations of options for grep to explore.
+../test1.txt:Let's test multiple options together.
+../test1.txt:grep -e allows searching with a regular expression.
+../test1.txt:Make sure the pattern matches words in the test file.
+../test1.txt:Patterns like grep, test, and more are included in this file.
+../test1.txt:Good luck testing your grep command with this file.

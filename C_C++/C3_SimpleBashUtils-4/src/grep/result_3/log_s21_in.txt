@@ -1,0 +1,8 @@
+../test.txt:12:End of file.
+../test1.txt:2:It contains multiple lines of text.
+../test1.txt:8:The -o option only shows the matched part of the line.
+../test1.txt:9:The -c option counts the number of lines that match.
+../test1.txt:10:There are many combinations of options for grep to explore.
+../test2.txt:12:End of second file.
+../test2.txt:18:It contains different sets of lines and words.
+../test2.txt:23:Using -c will count the number of matches per file.

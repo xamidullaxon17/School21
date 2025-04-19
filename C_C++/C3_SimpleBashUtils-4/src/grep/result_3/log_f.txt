@@ -1,0 +1,25 @@
+../test.txt:Whitespace  test:
+../test.txt:This is a new paragraph with multiple lines.
+../test.txt:End of file.
+../test1.txt:This is a simple test file.
+../test1.txt:grep is a powerful tool used for searching text.
+../test1.txt:grep -i will ignore case sensitivity.
+../test1.txt:There are many combinations of options for grep to explore.
+../test1.txt:Let's test multiple options together.
+../test1.txt:grep -e allows searching with a regular expression.
+../test1.txt:Make sure the pattern matches words in the test file.
+../test1.txt:Patterns like grep, test, and more are included in this file.
+../test1.txt:Good luck testing your grep command with this file.
+../test2.txt:Whitespace   test:
+../test2.txt:This paragraph also spans multiple lines.
+../test2.txt:End of second file.
+../test2.txt:Bu yana bir test fayli 
+../test2.txt:This is another test file.
+../test2.txt:Some lines contain grep-related test cases.
+../test2.txt:grep can match words, phrases, or patterns.
+../test2.txt:grep -o will extract only the matched pattern.
+../test2.txt:Using -c will count the number of matches per file.
+../test2.txt:Patterns such as another, test, and grep are included.
+../test2.txt:The -e flag lets you specify multiple patterns.
+../test2.txt:This file is created for testing and learning grep.
+../test2.txt:Happy testing with your grep commands!

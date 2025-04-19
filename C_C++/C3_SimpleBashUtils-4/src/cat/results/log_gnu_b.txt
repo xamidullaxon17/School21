@@ -1,0 +1,12 @@
+     1	The quick brown fox  jumps over the lazy dog.
+     2	1234567890
+     3	!@#$%^&*()_+[]{}|;:',.<>?/~`
+     4	Whitespace  test:
+     5	Line 1
+
+
+     6	Line 2
+     7	Line 3
+
+     8	This is a new paragraph with multiple lines.
+     9	End of file.
