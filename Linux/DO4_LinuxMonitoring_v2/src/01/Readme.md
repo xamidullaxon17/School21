@@ -1,5 +1,5 @@
 
-1.  run qilish: 
+1.  **run qilish:** 
   ```
     ./main.sh /home/emperora/Desktop/DO4_LinuxMonitoring_v2.0.ID_356280-1/src/01/test/ 3 abc 5 az.az 10kb
   ```
