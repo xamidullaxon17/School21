@@ -7,7 +7,7 @@
 - $2 | Yaratiladigan kataloglar soni - 3
 - $3 | Katalog nomidagi harflar - abc
 - $4 | Har bir katalog ichidagi fayllar soni - 5
-- $5 | Fayl nomi va kengaytmasi <uchun> harflar - az.az
+- $5 | Fayl nomi va kengaytmasi uchun harflar - az.az
 - $6 | Har bir fayl hajmi - 10kb
 
 `test/ ichida 3 ta katalog
