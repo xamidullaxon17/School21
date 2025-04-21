@@ -1,0 +1,3 @@
+./main.sh
+to'xtashi uchun kill qilish kerak.
+Cpu, RAM  larni metric.htmlga yozadi

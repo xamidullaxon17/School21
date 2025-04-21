@@ -1,0 +1,9 @@
+./main.sh
+
+
+sudo apt-get update
+sudo apt-get install goaccess
+sudo yum install goaccess
+brew install goaccess
+
+run qilsa ishlidi index.html chiqadi
