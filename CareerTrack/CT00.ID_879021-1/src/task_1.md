@@ -1,0 +1,8 @@
+#  Career Goals
+
+| Today (Now)                                                                                     | 2–3 Years (In Progress) | 4–5 Years (Goal)                                                                 |
+|--------------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------------------|
+| I am currently a student focused on learning Data Science and Data Analysis.                    |                          | I want to work remotely as a Data Scientist or a Senior Data Analyst.           |
+| I am studying Python, SQL, Tableau, Power BI, and Machine Learning step by step.                |                          | I aim to work for a large international tech company like Google, Amazon, SpaceX or remotely.  |
+| I’m building strong technical skills through online courses and hands-on projects.              |                          | I want to earn $15000-20000 per month and have health insurance and company benefits.  |
+| I am also learning how to analyze data, build dashboards, and solve real-world problems.        |                          | I want to be part of a friendly, growing team and enjoy a healthy work-life balance. |
