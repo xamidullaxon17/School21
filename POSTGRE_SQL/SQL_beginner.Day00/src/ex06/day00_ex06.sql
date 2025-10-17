@@ -1,0 +1,8 @@
+SELECT (SELECT p.name FROM person p WHERE p.id = person_order.person_id) AS name, 
+CASE
+	WHEN (SELECT p.name 
+		  FROM person p
+		  WHERE p.id = person_order.person_id) = 'Denis' THEN TRUE
+	ELSE FALSE END AS check_name
+FROM person_order
+WHERE order_date = '2022-01-07' AND (menu_id = 13 OR menu_id = 14 OR menu_id = 18);
