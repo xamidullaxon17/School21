@@ -1,5 +1,0 @@
-../test.txt:of
-../test1.txt:of
-../test1.txt:of
-../test1.txt:of
-../test1.txt:of
