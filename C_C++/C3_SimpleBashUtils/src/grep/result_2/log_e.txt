@@ -1,0 +1,5 @@
+../test.txt:End of file.
+../test1.txt:It contains multiple lines of text.
+../test1.txt:The -o option only shows the matched part of the line.
+../test1.txt:The -c option counts the number of lines that match.
+../test1.txt:There are many combinations of options for grep to explore.

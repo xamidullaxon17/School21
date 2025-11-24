@@ -1,0 +1,3 @@
+Whitespace  test:
+This is a new paragraph with multiple lines.
+End of file.

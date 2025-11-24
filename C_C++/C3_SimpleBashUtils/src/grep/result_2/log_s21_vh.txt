@@ -1,0 +1,22 @@
+The quick brown fox  jumps over the lazy dog.
+1234567890
+!@#$%^&*()_+[]{}|;:',.<>?/~`
+Whitespace  test:
+Line 1
+
+
+Line 2
+Line 3
+
+This is a new paragraph with multiple lines.
+This is a simple test file.
+Each line has a word or a phrase.
+grep is a powerful tool used for searching text.
+Testing options like -e, -i, -v, -c, and more.
+grep -i will ignore case sensitivity.
+The -v option inverts the search, showing lines that do not match.
+Let's test multiple options together.
+grep -e allows searching with a regular expression.
+Make sure the pattern matches words in the test file.
+Patterns like grep, test, and more are included in this file.
+Good luck testing your grep command with this file.

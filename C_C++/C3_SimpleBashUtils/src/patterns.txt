@@ -1,0 +1,10 @@
+grep
+test
+file
+grep -i
+missing word
+^grep
+gr[a-z]p
+line.*test
+gr[ae]p
+.*pattern.*
