@@ -1,0 +1,182 @@
+{
+  "current_level_number": 5,
+  "character": {
+    "x": 72,
+    "y": 47,
+    "max_health": 104,
+    "health": 27,
+    "dexterity": 10,
+    "strength": 10,
+    "current_weapon": null,
+    "backpack": {
+      "KEY_BLUE": [],
+      "HEALTH": [
+        {
+          "item_type": "TREASURE",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 60,
+          "is_temporary": false
+        },
+        {
+          "item_type": "TREASURE",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 20,
+          "is_temporary": false
+        },
+        {
+          "item_type": "SCROLL",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 1,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": false
+        },
+        {
+          "item_type": "TREASURE",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 43,
+          "is_temporary": false
+        },
+        {
+          "item_type": "ELIXIR",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 8,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": true
+        },
+        {
+          "item_type": "SCROLL",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 1,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": false
+        },
+        {
+          "item_type": "TREASURE",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 62,
+          "is_temporary": false
+        },
+        {
+          "item_type": "SCROLL",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 1,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": false
+        },
+        {
+          "item_type": "TREASURE",
+          "subtype": "HEALTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 0,
+          "value": 73,
+          "is_temporary": false
+        }
+      ],
+      "KEY_YELLOW": [],
+      "AXE": [
+        {
+          "item_type": "WEAPON",
+          "subtype": "AXE",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 11,
+          "value": 0,
+          "is_temporary": false
+        }
+      ],
+      "DEXTERITY": [
+        {
+          "item_type": "ELIXIR",
+          "subtype": "DEXTERITY",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 4,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": true
+        },
+        {
+          "item_type": "SCROLL",
+          "subtype": "DEXTERITY",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 2,
+          "strength_bonus": 0,
+          "value": 0,
+          "is_temporary": false
+        }
+      ],
+      "KEY_GREEN": [],
+      "FOOD": [],
+      "KEY_RED": [],
+      "STRENGTH": [
+        {
+          "item_type": "ELIXIR",
+          "subtype": "STRENGTH",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 8,
+          "value": 0,
+          "is_temporary": true
+        }
+      ],
+      "SWORD": [
+        {
+          "item_type": "WEAPON",
+          "subtype": "SWORD",
+          "health_value": 0,
+          "max_health_bonus": 0,
+          "dexterity_bonus": 0,
+          "strength_bonus": 15,
+          "value": 0,
+          "is_temporary": false
+        }
+      ]
+    },
+    "active_elixirs": {}
+  },
+  "statistics": {
+    "treasure_collected": 743,
+    "level_reached": 5,
+    "enemies_defeated": 7,
+    "food_consumed": 2,
+    "elixirs_used": 1,
+    "scrolls_read": 0,
+    "attacks_made": 31,
+    "hits_taken": 14,
+    "tiles_traversed": 634
+  },
+  "seed": 155233
+}

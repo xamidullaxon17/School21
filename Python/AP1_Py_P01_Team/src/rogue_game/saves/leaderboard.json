@@ -1,0 +1,13 @@
+[
+  {
+    "level": 5,
+    "treasure": 743,
+    "enemies_defeated": 7,
+    "food_consumed": 2,
+    "elixirs_used": 1,
+    "scrolls_read": 0,
+    "attacks_made": 34,
+    "hits_taken": 16,
+    "tiles_traversed": 684
+  }
+]

@@ -1,0 +1,1018 @@
+[2026-03-06 15:41:18] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:41:26] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:41:35] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:41:41] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:46:25] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:47:27] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:47:36] game_info.py:20 INFO    : GameInfo initialized.
+[2026-03-06 15:47:58] controller.py:96 INFO    : Controller initialized
+[2026-03-06 15:48:05] game_info.py:20 INFO    : GameInfo initialized.
+[2026-03-06 15:48:05] controller.py:211 DEBUG   : loop started
+[2026-03-06 15:48:08] controller.py:246 INFO    : Processing user input: 
+[2026-03-06 15:48:08] controller.py:250 INFO    : Normalized user input to: 
+[2026-03-06 15:48:08] controller.py:257 INFO    : key: '' is not in input options. Ignore
+[2026-03-06 15:48:09] controller.py:246 INFO    : Processing user input: 
+[2026-03-06 15:48:09] controller.py:250 INFO    : Normalized user input to: 
+[2026-03-06 15:48:09] controller.py:257 INFO    : key: '' is not in input options. Ignore
+[2026-03-06 15:48:09] controller.py:246 INFO    : Processing user input: 
+[2026-03-06 15:48:09] controller.py:250 INFO    : Normalized user input to: 
+[2026-03-06 15:48:09] controller.py:257 INFO    : key: '' is not in input options. Ignore
+[2026-03-06 15:48:09] controller.py:246 INFO    : Processing user input: 
+[2026-03-06 15:48:09] controller.py:250 INFO    : Normalized user input to: 
+[2026-03-06 15:48:09] controller.py:257 INFO    : key: '' is not in input options. Ignore
+[2026-03-06 15:48:10] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:10] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:10] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:10] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:10] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:10] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:10] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:10] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:10] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:10] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:10] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:10] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:10] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:10] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:10] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:10] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:10] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:10] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:10] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:10] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:10] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:10] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:10] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:10] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:10] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:11] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:11] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:11] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:11] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:11] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:11] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:11] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:11] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:11] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:11] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:11] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:11] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:11] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:11] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:11] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:12] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:12] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:12] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:12] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:12] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:13] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:13] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:13] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:13] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:13] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:13] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:13] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:13] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:13] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:13] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:14] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:14] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:14] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:14] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:14] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:14] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:14] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:14] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:14] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:14] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:15] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:15] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:15] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:15] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:15] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:15] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:15] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:15] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:15] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:15] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:15] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:15] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:15] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:15] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:15] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:15] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:15] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:15] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:15] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:15] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:15] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:15] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:15] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:15] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:15] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:16] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:16] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:16] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:16] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:16] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:16] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:16] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:16] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:16] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:16] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:16] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:16] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:16] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:16] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:16] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:16] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:16] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:16] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:16] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:16] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:16] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:16] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:16] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:16] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:17] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:17] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:17] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:17] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:17] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:17] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:17] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:17] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:17] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:17] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:17] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:17] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:17] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:17] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:17] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:17] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:17] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:17] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:17] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:17] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:17] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:18] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:18] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:18] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:18] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:18] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:18] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:18] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:18] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:18] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:18] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:18] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:18] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:18] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:18] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:18] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:18] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:18] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:18] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:18] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:18] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:18] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:18] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:18] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:18] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:18] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:19] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:19] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:19] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:19] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:19] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:19] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:19] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:19] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:19] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:19] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:19] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:19] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:19] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:19] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:19] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:19] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:19] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:19] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:19] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:19] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:20] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:20] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:20] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:20] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:20] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:20] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:20] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:20] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:20] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:20] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:20] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:20] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:20] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:20] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:20] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:20] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:20] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:20] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:20] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:20] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:21] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:21] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:21] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:21] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:21] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:21] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:21] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:21] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:21] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:21] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:21] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:21] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:21] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:21] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:21] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:21] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:21] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:21] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:21] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:21] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:22] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:22] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:22] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:22] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:22] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:22] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:22] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:22] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:22] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:22] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:22] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:22] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:22] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:22] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:22] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:22] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:22] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:22] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:22] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:22] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:23] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:23] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:23] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:23] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:23] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:23] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:23] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:23] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:23] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:23] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:23] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:23] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:23] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:23] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:23] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:23] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:23] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:23] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:23] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:23] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:24] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:24] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:24] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:24] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:24] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:24] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:24] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:24] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:24] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:24] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:24] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:24] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:24] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:24] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:24] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:24] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:24] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:24] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:24] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:24] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:25] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:25] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:25] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:25] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:25] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:25] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:25] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:25] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:25] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:25] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:25] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:25] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:25] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:25] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:25] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:25] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:25] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:25] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:25] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:25] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:26] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:26] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:26] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:26] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:26] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:26] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:26] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:26] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:26] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:26] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:26] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:26] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:26] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:26] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:26] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:26] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:26] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:26] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:26] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:26] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:26] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:26] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:26] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:26] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:26] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:27] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:27] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:27] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:27] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:27] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:27] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:27] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:27] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:27] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:27] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:27] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:27] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:27] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:27] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:27] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:27] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:27] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:27] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:27] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:27] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:28] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:28] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:28] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:28] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:28] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:28] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:28] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:28] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:28] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:28] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:28] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:28] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:28] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:28] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:28] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:28] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:28] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:28] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:28] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:28] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:29] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:29] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:29] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:29] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:29] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:29] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:29] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:29] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:29] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:29] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:29] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:29] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:29] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:29] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:29] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:30] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:30] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:30] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:30] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:30] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:30] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:30] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:30] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:30] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:30] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:30] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:30] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:30] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:30] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:30] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:30] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:30] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:30] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:30] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:30] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:31] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:31] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:31] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:31] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:31] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:31] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:31] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:31] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:31] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:31] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:31] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:31] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:31] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:31] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:31] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:32] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:32] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:32] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:32] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:32] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:32] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:32] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:32] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:32] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:32] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:33] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:33] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:33] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:33] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:33] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:33] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:33] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:33] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:33] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:33] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:33] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:33] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:33] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:33] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:33] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:33] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:33] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:33] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:33] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:33] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:33] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:33] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:33] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:33] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:34] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:34] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:34] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:34] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:34] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:34] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:34] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:34] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:34] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:34] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:34] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:34] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:34] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:34] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:34] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:34] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:34] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:34] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:34] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:34] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:34] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:35] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:35] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:35] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:35] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:35] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:35] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:35] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:35] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:35] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:35] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:35] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:35] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:35] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:35] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:35] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:35] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:35] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:35] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:35] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:35] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:36] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:36] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:36] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:36] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:36] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:36] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:36] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:36] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:36] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:36] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:36] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:36] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:36] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:36] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:36] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:37] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:37] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:37] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:37] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:37] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:37] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:37] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:37] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:37] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:37] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:37] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:37] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:37] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:37] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:37] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:37] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:37] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:37] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:37] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:37] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:38] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:38] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:38] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:38] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:38] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:38] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:38] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:38] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:38] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:38] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:38] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:38] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:38] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:38] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:38] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:38] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:38] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:38] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:38] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:38] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:38] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:38] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:38] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:38] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:38] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:39] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:39] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:39] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:39] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:39] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:39] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:39] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:39] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:39] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:39] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:39] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:39] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:39] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:39] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:39] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:39] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:39] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:39] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:39] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:39] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:40] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:40] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:40] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:40] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:40] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:40] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:40] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:40] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:40] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:40] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:40] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:40] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:40] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:40] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:40] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:40] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:40] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:40] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:40] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:40] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:40] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:40] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:40] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:40] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:40] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:41] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:41] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:41] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:41] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:41] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:41] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:41] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:41] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:41] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:41] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:41] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:41] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:41] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:41] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:41] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:41] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:41] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:41] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:41] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:41] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:42] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:42] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:42] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:42] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:42] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:42] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:42] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:42] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:42] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:42] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:42] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:42] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:42] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:42] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:42] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:42] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:42] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:42] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:42] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:42] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:43] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:43] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:43] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:43] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:43] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:43] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:43] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:43] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:43] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:43] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:43] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:43] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:43] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:43] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:43] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:43] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:43] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:43] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:43] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:43] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:43] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:43] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:43] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:43] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:44] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:44] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:44] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:44] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:44] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:44] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:44] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:44] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:44] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:44] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:44] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:44] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:44] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:44] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:44] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:44] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:44] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:44] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:44] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:44] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:44] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:45] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:45] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:45] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:45] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:45] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:45] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:45] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:45] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:45] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:45] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:45] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:45] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:45] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:45] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:45] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:45] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:45] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:45] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:45] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:45] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:46] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:46] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:46] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:46] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:46] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:46] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:46] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:46] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:46] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:46] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:46] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:46] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:46] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:46] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:46] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:46] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:46] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:46] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:46] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:46] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:47] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:47] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:47] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:47] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:47] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:47] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:47] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:47] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:47] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:47] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:47] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:47] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:47] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:47] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:47] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:47] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:47] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:47] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:47] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:47] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:48] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:48] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:48] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:48] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:48] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:48] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:48] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:48] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:48] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:48] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:48] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:48] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:48] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:48] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:48] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:48] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:48] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:48] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:48] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:48] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:49] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:49] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:49] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:49] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:49] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:49] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:49] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:49] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:49] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:49] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:49] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:49] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:49] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:49] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:49] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:49] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:49] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:49] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:49] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:49] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:50] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:50] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:50] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:50] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:50] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:50] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:50] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:50] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:50] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:50] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:50] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:50] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:50] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:50] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:50] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:51] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:51] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:51] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:51] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:51] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:51] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:51] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:51] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:51] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:51] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:51] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:51] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:51] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:51] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:51] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:51] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:51] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:51] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:51] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:51] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:51] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:51] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:51] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:51] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:51] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:52] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:52] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:52] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:52] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:52] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:52] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:52] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:52] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:52] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:52] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:53] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:53] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:53] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:53] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:53] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:53] controller.py:246 INFO    : Processing user input: a
+[2026-03-06 15:48:53] controller.py:250 INFO    : Normalized user input to: a
+[2026-03-06 15:48:53] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:53] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:53] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:53] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:53] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:53] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:53] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:53] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:53] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:53] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:53] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:53] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:53] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:54] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:54] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:54] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:54] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:54] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:54] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:54] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:54] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:54] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:54] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:54] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:54] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:54] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:54] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:54] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:54] controller.py:246 INFO    : Processing user input: w
+[2026-03-06 15:48:54] controller.py:250 INFO    : Normalized user input to: w
+[2026-03-06 15:48:54] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:54] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:54] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:55] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:55] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:55] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:55] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:55] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:55] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:55] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:55] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:55] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:55] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:55] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:55] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:55] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:55] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:55] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:56] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:56] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:56] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:56] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:56] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:56] controller.py:246 INFO    : Processing user input: d
+[2026-03-06 15:48:56] controller.py:250 INFO    : Normalized user input to: d
+[2026-03-06 15:48:56] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:56] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:56] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:57] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:57] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:57] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:57] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:57] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:57] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:57] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:57] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:57] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:57] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:57] controller.py:246 INFO    : Processing user input: s
+[2026-03-06 15:48:57] controller.py:250 INFO    : Normalized user input to: s
+[2026-03-06 15:48:57] controller.py:255 INFO    : GameState.INPUT UserAction.MOVE
+[2026-03-06 15:48:57] controller.py:260 INFO    : action: __move
+[2026-03-06 15:48:57] controller.py:270 INFO    : Getting Rogue update
+[2026-03-06 15:48:58] controller.py:277 INFO    : state = death

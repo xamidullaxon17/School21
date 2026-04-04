@@ -1,0 +1,2001 @@
+[2026-03-06 15:47:36] character.py:68 INFO    : Character initialized: nickname=dfs
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=0
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=1
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=2
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=3
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=4
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=5
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=6
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=7
+[2026-03-06 15:47:36] room.py:56 INFO    : Room initialized: id=8
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=0, next_id=3, initial_side=D
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=3, next_id=6, initial_side=D
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=3, next_id=4, initial_side=R
+[2026-03-06 15:47:36] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=5, initial_side=R
+[2026-03-06 15:47:36] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=1, initial_side=U
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=7, initial_side=D
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=7, next_id=8, initial_side=R
+[2026-03-06 15:47:36] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=8, next_id=5, initial_side=U
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] level_map.py:96 INFO    : Generating a new corridor: room_id=5, next_id=2, initial_side=U
+[2026-03-06 15:47:36] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:47:36] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:47:36] room.py:129 INFO    : Character is placed to room id=4
+[2026-03-06 15:47:36] room.py:135 INFO    : Exit is placed to room id=0
+[2026-03-06 15:47:36] room.py:146 INFO    : Generating enemy in room id=1
+[2026-03-06 15:47:36] room.py:146 INFO    : Generating enemy in room id=5
+[2026-03-06 15:47:36] room.py:146 INFO    : Generating enemy in room id=6
+[2026-03-06 15:47:36] room.py:146 INFO    : Generating enemy in room id=6
+[2026-03-06 15:47:36] room.py:146 INFO    : Generating enemy in room id=7
+[2026-03-06 15:47:36] room.py:165 INFO    : Generating enemy in room id=0
+[2026-03-06 15:47:36] room.py:165 INFO    : Generating enemy in room id=3
+[2026-03-06 15:47:36] room.py:162 INFO    : Generating item in room id=5
+[2026-03-06 15:47:36] room.py:162 INFO    : Generating item in room id=6
+[2026-03-06 15:47:36] room.py:165 INFO    : Generating enemy in room id=8
+[2026-03-06 15:47:36] level_map.py:46 INFO    : LevelMap initialized
+[2026-03-06 15:48:05] character.py:68 INFO    : Character initialized: nickname=dss
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=0
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=1
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=2
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=3
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=4
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=5
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=6
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=7
+[2026-03-06 15:48:05] room.py:56 INFO    : Room initialized: id=8
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=0, next_id=3, initial_side=D
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=3, next_id=6, initial_side=D
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=6, next_id=7, initial_side=R
+[2026-03-06 15:48:05] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=7, next_id=8, initial_side=R
+[2026-03-06 15:48:05] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=8, next_id=5, initial_side=U
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=5, next_id=2, initial_side=U
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=2, next_id=1, initial_side=L
+[2026-03-06 15:48:05] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=1, next_id=0, initial_side=L
+[2026-03-06 15:48:05] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:137 WARNING : Random doors generation: adding new group
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=1, initial_side=U
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=5, initial_side=R
+[2026-03-06 15:48:05] corridor.py:108 INFO    : Generating horizontal corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:96 INFO    : Generating a new corridor: room_id=4, next_id=7, initial_side=D
+[2026-03-06 15:48:05] corridor.py:99 INFO    : Generating vertical corridor
+[2026-03-06 15:48:05] corridor.py:70 INFO    : Corridor initialized
+[2026-03-06 15:48:05] level_map.py:111 INFO    : Corridor groups are united
+[2026-03-06 15:48:05] room.py:129 INFO    : Character is placed to room id=5
+[2026-03-06 15:48:05] room.py:135 INFO    : Exit is placed to room id=7
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=0
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=1
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=4
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=7
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=8
+[2026-03-06 15:48:05] room.py:146 INFO    : Generating enemy in room id=8
+[2026-03-06 15:48:05] room.py:162 INFO    : Generating item in room id=0
+[2026-03-06 15:48:05] room.py:165 INFO    : Generating enemy in room id=3
+[2026-03-06 15:48:05] room.py:162 INFO    : Generating item in room id=8
+[2026-03-06 15:48:05] level_map.py:46 INFO    : LevelMap initialized
+[2026-03-06 15:48:10] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:10] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:10] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:10] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:10] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:10] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:10] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:10] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:10] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:10] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:10] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:11] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:11] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:11] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:11] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:11] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:11] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:12] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:12] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:12] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:13] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:13] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:13] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:13] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:13] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:13] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:14] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:14] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:14] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:14] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:14] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:14] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:14] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:14] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:14] character.py:219 INFO    : Огр атакует dss нанося 9 урона
+[2026-03-06 15:48:14] character.py:132 INFO    : Character decrease to 9 hp=91
+[2026-03-06 15:48:15] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:15] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:15] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:15] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:15] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:15] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:15] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:15] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:15] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:15] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:15] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:15] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:15] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:15] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:15] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:15] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:15] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:15] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:16] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:16] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:16] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:16] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:16] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:16] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:16] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:16] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:16] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:16] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:16] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:16] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:16] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:16] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:16] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:16] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:16] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:16] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:16] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:17] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:17] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:17] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:17] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:17] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:17] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:17] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:17] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:17] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:17] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:17] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:17] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:17] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:17] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:17] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:17] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:18] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:18] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:18] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:18] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:18] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:18] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:18] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:18] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:18] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:18] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:18] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:18] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:18] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:18] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:18] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:18] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:19] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:19] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:19] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:19] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:19] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:19] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:19] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:19] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:19] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:19] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:19] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:19] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:19] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:20] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:20] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:20] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:20] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:20] character.py:219 INFO    : Огр атакует dss нанося 7 урона
+[2026-03-06 15:48:20] character.py:132 INFO    : Character decrease to 7 hp=84
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:20] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:20] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:20] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:20] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:20] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:20] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:20] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:20] character.py:225 INFO    : Огр атакует dss и промахивается
+[2026-03-06 15:48:20] character.py:132 INFO    : Character decrease to 0 hp=84
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:20] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:20] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:20] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:21] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:21] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:21] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:21] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:21] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:21] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:21] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:21] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:21] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:21] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:21] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:21] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:21] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:22] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:22] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:22] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:22] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:22] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:22] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:22] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:22] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:22] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:22] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:22] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:22] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:22] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:23] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:23] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:23] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:23] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:23] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:23] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:23] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:23] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:23] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:23] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:23] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:23] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:23] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:23] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:23] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:23] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:24] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:24] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:24] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:24] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:24] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:24] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:24] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:24] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:24] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:24] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:24] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:24] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:24] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:24] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:24] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:24] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:24] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:25] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:25] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:25] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:25] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:25] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:25] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:25] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:25] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:25] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:25] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:25] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:25] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:25] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:25] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:25] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:25] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:25] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:26] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:26] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:26] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:26] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:26] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:26] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:26] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:26] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:26] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:26] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:26] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:26] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:26] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:26] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:26] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:27] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:27] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:27] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:27] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:27] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:27] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:27] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:27] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:27] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:27] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:27] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:27] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:27] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:27] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:27] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:27] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:27] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:28] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:28] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:28] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:28] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:28] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:28] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:28] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:28] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:28] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:28] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:28] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:28] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:28] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:29] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:29] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:29] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:29] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:29] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:29] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:29] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:29] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:29] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:29] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:30] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:30] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:30] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:30] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:30] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:30] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:30] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:30] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:30] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:30] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:30] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:30] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:30] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:31] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:31] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:31] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:31] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:31] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:31] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:31] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:31] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:31] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:31] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:31] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:31] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:31] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:31] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:31] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:31] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:31] character.py:225 INFO    : Огр атакует dss и промахивается
+[2026-03-06 15:48:31] character.py:132 INFO    : Character decrease to 0 hp=84
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:31] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:32] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:32] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:32] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:32] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:32] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:32] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:32] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:32] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:32] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:32] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:32] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:33] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:33] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:33] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:33] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:33] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:33] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:33] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:33] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:33] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:33] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:33] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:33] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:33] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:34] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:34] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:34] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:34] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:34] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:34] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:34] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:34] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:34] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:34] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:34] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:35] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:35] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:35] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:35] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:35] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:35] character.py:219 INFO    : Огр атакует dss нанося 9 урона
+[2026-03-06 15:48:35] character.py:132 INFO    : Character decrease to 9 hp=75
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:35] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:35] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:35] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:35] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:35] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:35] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:35] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:36] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:36] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:36] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:36] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:36] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:36] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:36] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:36] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:36] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:36] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:36] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:36] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:36] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:36] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:36] character.py:132 INFO    : Character decrease to 0 hp=75
+[2026-03-06 15:48:37] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:37] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:37] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:37] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:37] character.py:219 INFO    : Мимик атакует dss нанося 4 урона
+[2026-03-06 15:48:37] character.py:132 INFO    : Character decrease to 4 hp=71
+[2026-03-06 15:48:37] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:37] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:37] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:37] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:37] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:37] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:37] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:38] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:38] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:38] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:38] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:38] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:38] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:38] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:38] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:38] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:38] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:38] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:38] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:38] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:39] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:39] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:39] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:39] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:39] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:39] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:39] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:39] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:39] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:39] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:39] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:40] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:40] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:40] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:40] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:40] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:40] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:40] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:40] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:40] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:40] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:41] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:41] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:41] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:41] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:41] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:41] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:41] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:41] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:41] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:41] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:41] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:42] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:42] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:42] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:42] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:42] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:42] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:42] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:42] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:42] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:42] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:42] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:43] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:43] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:43] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:43] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:43] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:43] character.py:132 INFO    : Character decrease to 0 hp=71
+[2026-03-06 15:48:43] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:43] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:43] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:43] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:43] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:43] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:43] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:43] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:43] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:44] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:44] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:44] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:44] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:44] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:44] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:44] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:44] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:44] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:44] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:44] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:45] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:45] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:45] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:45] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:45] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:45] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:45] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:45] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:45] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:45] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:45] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:46] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:46] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:46] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:46] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:46] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:46] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:46] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:46] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:46] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:46] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:46] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:47] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:47] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:47] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:47] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:47] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:47] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:47] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:47] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:47] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:47] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:47] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:48] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:48] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:48] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:48] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:48] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:48] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:48] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:48] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:48] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:48] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:48] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:49] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:49] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:49] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:49] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:49] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:49] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:49] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:49] character.py:219 INFO    : Мимик атакует dss нанося 6 урона
+[2026-03-06 15:48:49] character.py:132 INFO    : Character decrease to 6 hp=65
+[2026-03-06 15:48:49] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:49] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:49] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:49] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:49] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:49] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:49] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:50] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:50] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:50] character.py:132 INFO    : Character decrease to 0 hp=65
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:50] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:50] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:50] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:50] level_map.py:197 INFO    : Moving character in Corridor
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:50] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:50] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:50] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:50] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:50] character.py:132 INFO    : Character decrease to 0 hp=65
+[2026-03-06 15:48:50] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:50] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:51] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:51] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:51] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:51] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:51] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:51] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:51] character.py:132 INFO    : Character decrease to 5 hp=60
+[2026-03-06 15:48:51] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:51] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:51] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:52] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:52] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:52] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:52] character.py:219 INFO    : Мимик атакует dss нанося 4 урона
+[2026-03-06 15:48:52] character.py:132 INFO    : Character decrease to 4 hp=56
+[2026-03-06 15:48:52] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:52] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:52] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:52] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:52] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:52] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:52] character.py:132 INFO    : Character decrease to 0 hp=56
+[2026-03-06 15:48:52] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:52] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:52] character.py:219 INFO    : Огр атакует dss нанося 7 урона
+[2026-03-06 15:48:52] character.py:132 INFO    : Character decrease to 7 hp=49
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:52] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:53] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:53] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:53] level_map.py:189 INFO    : Moving character: a
+[2026-03-06 15:48:53] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:53] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:53] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:53] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:53] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:53] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:53] character.py:132 INFO    : Character decrease to 5 hp=44
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:53] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:53] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:53] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:53] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:53] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:54] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:54] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:54] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:54] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:54] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:54] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Mimic chases Character!
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:54] level_map.py:424 INFO    : Ogre chases Character!
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:54] level_map.py:189 INFO    : Moving character: w
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:54] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:54] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:54] character.py:132 INFO    : Character decrease to 5 hp=39
+[2026-03-06 15:48:54] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:54] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:54] character.py:225 INFO    : Огр атакует dss и промахивается
+[2026-03-06 15:48:54] character.py:132 INFO    : Character decrease to 0 hp=39
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:54] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:55] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:55] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:55] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:55] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:55] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:55] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:55] character.py:132 INFO    : Character decrease to 5 hp=34
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:55] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:55] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:55] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:55] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:55] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:55] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:55] character.py:132 INFO    : Character decrease to 5 hp=29
+[2026-03-06 15:48:55] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:55] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:55] character.py:225 INFO    : Огр атакует dss и промахивается
+[2026-03-06 15:48:55] character.py:132 INFO    : Character decrease to 0 hp=29
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:55] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:55] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:55] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:55] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:55] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:56] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:56] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:56] character.py:132 INFO    : Character decrease to 0 hp=29
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:56] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:56] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:56] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:56] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:56] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:56] character.py:225 INFO    : Мимик атакует dss и промахивается
+[2026-03-06 15:48:56] character.py:132 INFO    : Character decrease to 0 hp=29
+[2026-03-06 15:48:56] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:56] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:56] character.py:225 INFO    : Огр атакует dss и промахивается
+[2026-03-06 15:48:56] character.py:132 INFO    : Character decrease to 0 hp=29
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:56] level_map.py:189 INFO    : Moving character: d
+[2026-03-06 15:48:56] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:56] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:56] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:56] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:56] character.py:219 INFO    : Мимик атакует dss нанося 4 урона
+[2026-03-06 15:48:56] character.py:132 INFO    : Character decrease to 4 hp=25
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:56] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:57] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:57] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:57] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:57] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:57] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:57] character.py:219 INFO    : Мимик атакует dss нанося 4 урона
+[2026-03-06 15:48:57] character.py:132 INFO    : Character decrease to 4 hp=21
+[2026-03-06 15:48:57] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:57] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:57] character.py:219 INFO    : Огр атакует dss нанося 9 урона
+[2026-03-06 15:48:57] character.py:132 INFO    : Character decrease to 9 hp=12
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:57] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:57] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:57] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:57] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:57] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:57] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:57] character.py:132 INFO    : Character decrease to 5 hp=7
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Vampire makes a pattern move
+[2026-03-06 15:48:57] level_map.py:189 INFO    : Moving character: s
+[2026-03-06 15:48:57] level_map.py:197 INFO    : Moving character in Room
+[2026-03-06 15:48:57] level_map.py:205 INFO    : Character faced an enemy
+[2026-03-06 15:48:57] level_map.py:321 INFO    : Ogre makes a pattern move
+[2026-03-06 15:48:57] level_map.py:316 INFO    : Mimic is chasing Character!
+[2026-03-06 15:48:58] level_map.py:420 INFO    : Mimic attacks Character!
+[2026-03-06 15:48:58] character.py:219 INFO    : Мимик атакует dss нанося 5 урона
+[2026-03-06 15:48:58] character.py:132 INFO    : Character decrease to 5 hp=2
+[2026-03-06 15:48:58] level_map.py:316 INFO    : Ogre is chasing Character!
+[2026-03-06 15:48:58] level_map.py:420 INFO    : Ogre attacks Character!
+[2026-03-06 15:48:58] character.py:219 INFO    : Огр атакует dss нанося 6 урона
+[2026-03-06 15:48:58] character.py:132 INFO    : Character decrease to 6 hp=-4
+[2026-03-06 15:48:58] level_map.py:321 INFO    : Mimic makes a pattern move
+[2026-03-06 15:48:58] level_map.py:321 INFO    : Ghost makes a pattern move
+[2026-03-06 15:48:58] level_map.py:321 INFO    : Vampire makes a pattern move

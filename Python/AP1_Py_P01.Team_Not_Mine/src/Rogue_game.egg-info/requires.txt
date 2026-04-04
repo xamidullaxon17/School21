@@ -1,0 +1,5 @@
+loguru
+pygame
+
+[dev]
+ruff~=0.8.0

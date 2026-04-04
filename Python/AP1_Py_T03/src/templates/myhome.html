@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #1a1a2e;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            color: #e94560;
+            margin-bottom: 8px;
+        }
+
+        .info {
+            color: #aaa;
+            font-size: 1rem;
+            margin-bottom: 16px;
+        }
+
+        .winner-text {
+            font-size: 1.6rem;
+            font-weight: bold;
+            color: #ffd700;
+            min-height: 2.2rem;
+            margin-bottom: 12px;
+        }
+
+        .board {
+            display: grid;
+            grid-template-columns: repeat(3, 110px);
+            grid-template-rows: repeat(3, 110px);
+            gap: 8px;
+        }
+
+        .cell {
+            width: 110px;
+            height: 110px;
+            background: #16213e;
+            border: 2px solid #0f3460;
+            border-radius: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            text-decoration: none;
+            transition: background 0.15s;
+        }
+
+        a.cell:hover {
+            background: #0f3460;
+            cursor: pointer;
+        }
+
+        span.cell {
+            cursor: default;
+        }
+
+        .x { color: #e94560; }
+        .o { color: #4fc3f7; }
+
+        .reset-btn {
+            margin-top: 24px;
+            padding: 12px 36px;
+            background: #e94560;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1rem;
+            text-decoration: none;
+            transition: background 0.2s;
+        }
+
+        .reset-btn:hover {
+            background: #c73652;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Tic Tac Toe</h1>
+    <p class="info">You: ✘ &nbsp;|&nbsp; Computer: 〇</p>
+
+    <div class="winner-text">{{ winner }}</div>
+
+    <div class="board">
+        {% for i in range(3) %}
+            {% for j in range(3) %}
+                {% if board[i][j] == 1 %}
+                    <span class="cell x">✘</span>
+                {% elif board[i][j] == 2 %}
+                    <span class="cell o">〇</span>
+                {% else %}
+                    {% if ended %}
+                        <span class="cell"></span>
+                    {% else %}
+                        <a href="/mark/{{ game_id }}/{{ i }}/{{ j }}" class="cell"></a>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </div>
+
+    <a href="/reset/{{ game_id }}" class="reset-btn">New game</a>
+
+</body>
+</html>

@@ -1,0 +1,167 @@
+[
+  {
+    "level": 6,
+    "treasure": 927,
+    "enemies_defeated": 9,
+    "food_consumed": 8,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 74,
+    "hits_taken": 33,
+    "tiles_traversed": 1155
+  },
+  {
+    "level": 3,
+    "treasure": 665,
+    "enemies_defeated": 6,
+    "food_consumed": 6,
+    "elixirs_used": 0,
+    "scrolls_read": 1,
+    "attacks_made": 42,
+    "hits_taken": 30,
+    "tiles_traversed": 972
+  },
+  {
+    "level": 4,
+    "treasure": 577,
+    "enemies_defeated": 7,
+    "food_consumed": 1,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 33,
+    "hits_taken": 15,
+    "tiles_traversed": 707
+  },
+  {
+    "level": 3,
+    "treasure": 466,
+    "enemies_defeated": 4,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 1,
+    "attacks_made": 21,
+    "hits_taken": 11,
+    "tiles_traversed": 554
+  },
+  {
+    "level": 3,
+    "treasure": 416,
+    "enemies_defeated": 3,
+    "food_consumed": 0,
+    "elixirs_used": 4,
+    "scrolls_read": 0,
+    "attacks_made": 29,
+    "hits_taken": 9,
+    "tiles_traversed": 1444
+  },
+  {
+    "level": 3,
+    "treasure": 384,
+    "enemies_defeated": 3,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 1,
+    "attacks_made": 21,
+    "hits_taken": 11,
+    "tiles_traversed": 551
+  },
+  {
+    "level": 3,
+    "treasure": 374,
+    "enemies_defeated": 3,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 22,
+    "hits_taken": 12,
+    "tiles_traversed": 734
+  },
+  {
+    "level": 3,
+    "treasure": 359,
+    "enemies_defeated": 4,
+    "food_consumed": 4,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 38,
+    "hits_taken": 18,
+    "tiles_traversed": 637
+  },
+  {
+    "level": 2,
+    "treasure": 295,
+    "enemies_defeated": 2,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 15,
+    "hits_taken": 8,
+    "tiles_traversed": 385
+  },
+  {
+    "level": 3,
+    "treasure": 259,
+    "enemies_defeated": 3,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 22,
+    "hits_taken": 11,
+    "tiles_traversed": 668
+  },
+  {
+    "level": 2,
+    "treasure": 255,
+    "enemies_defeated": 3,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 18,
+    "hits_taken": 10,
+    "tiles_traversed": 429
+  },
+  {
+    "level": 2,
+    "treasure": 181,
+    "enemies_defeated": 2,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 19,
+    "hits_taken": 8,
+    "tiles_traversed": 300
+  },
+  {
+    "level": 1,
+    "treasure": 155,
+    "enemies_defeated": 2,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 19,
+    "hits_taken": 13,
+    "tiles_traversed": 398
+  },
+  {
+    "level": 1,
+    "treasure": 37,
+    "enemies_defeated": 1,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 3,
+    "hits_taken": 13,
+    "tiles_traversed": 471
+  },
+  {
+    "level": 1,
+    "treasure": 0,
+    "enemies_defeated": 0,
+    "food_consumed": 0,
+    "elixirs_used": 0,
+    "scrolls_read": 0,
+    "attacks_made": 5,
+    "hits_taken": 11,
+    "tiles_traversed": 73
+  }
+]
